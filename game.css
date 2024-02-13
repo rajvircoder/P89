@@ -1,11 +1,11 @@
 body
 {
-	background: rgb(170, 10, 10);
+	background: lightblue;
 }
 
 	.login_div1 , .login_div2
 	{
-		background: rgb(156, 152, 152);
+		background: white;
 		padding: 10px;
 		float: none;
 		border-radius: 15px;
@@ -29,11 +29,8 @@ body
 {
 background: white;
 border-radius: 10px;
-border-top: 10px solid #e80b51;
+border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
-}
-h1{
-	color:white;
 }
